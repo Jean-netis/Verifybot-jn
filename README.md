@@ -1,6 +1,6 @@
 # setup for replit
 
-Fork Github อันนี้
+Fork Github อันนี้ หรือกดลิงค์นี้แล้ว fork : https://replit.com/@jeannetischanne/Verifybot-jn#index.js
 
 ใส่ Token bot discord ในไฟล์ config.js
 

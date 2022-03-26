@@ -1,6 +1,6 @@
 console.log('โปรดรอคำสั่งทำงานและบอททำงานภายใน 30 วินาที | JN03')
 
-const { prefix, developerID } = require("./config.json")
+const { prefix, developerID ,bottoken } = require("./config.json")
 const { config } = require("dotenv");
 const db =require("quick.db");
 const welc = require("image-cord")
@@ -75,7 +75,7 @@ client.on('ready', () => {
   (console.error);
 });
 
-client.login(process.env.TOKEN);
+client.login(bottoken);
 
 //โค้ดทำโดย JN03 - JNWORLD โปรดอย่าลบข้อความนี้
 //โค้ดบอทเปิดเพลงในดิสคอสนี้หากจะนำไปแจกกรุณาให้ Credit ด้วยนะครับ

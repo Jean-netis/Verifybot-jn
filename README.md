@@ -1,5 +1,7 @@
 # setup for replit
 
+Fork Github อันนี้
+
 ใส่ Token bot discord ในไฟล์ config.js
 
 ใส่ prefix bot ในไฟล์ config.js

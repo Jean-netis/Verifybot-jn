@@ -1,6 +1,6 @@
 @echo off
 
-title Bot Runner - Music function by jn03
+title Bot Runner - Veryify bot by jn03
 
 color C
 

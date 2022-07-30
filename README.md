@@ -1,3 +1,5 @@
+## Update 2.0 สำหรับรันบน Windows linux / Vpn ทำตามขั้นตอนด่านล่างเลยนะครับ
+
 # setup for replit
 
 Fork Github อันนี้ หรือกดลิงค์นี้แล้ว fork : https://replit.com/@jeannetischanne/Verifybot-jn#index.js
@@ -18,12 +20,8 @@ run = "node index.js"
 
 ใส่ prefix bot ในไฟล์ config.js
 
-โหลด Node discord.js dontenv และอื่นๆ
-
-ใช้คำสั่ง cd บน cmd ( cd [File location] )
-
-ใช้คำสั่ง node index.js
+เปิดไฟล์ Start.bat เพื่อรันบอท
 
 ## หากไม่เข้าใจกรุณาดูคลิปอย่างละเอียด 
 
-Copyright 2022 - jn03 - jean_netis world
+Copyright 2021 - 2022 - jn03 - jean_netis world
